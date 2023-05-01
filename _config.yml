@@ -16,8 +16,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "README.md", title: "Research"}
-  - {file: "README.md", title: "Personal"}
+  - {file: "exp.md", title: "Experience"}
+  - {file: "per.md", title: "Personal"}
   - {file: "Yao.Tianyue (3).pdf", title: "CV", url: "/Yao.Tianyue (3).pdf"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
