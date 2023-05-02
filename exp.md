@@ -5,14 +5,14 @@ layout: page
 
 ## Intership Experience
 
- - Quantitative Researcher Intern at China Merchants Securities (June to Aug. 2023)
+ - Quantitative Researcher Intern at China Merchants Securities (Incoming 2023)
  - FinTech & Quantitative Investment Intern at Caida Securities (May to Aug. 2021)
  - Accounting Intern at Orient Securities (July to Aug. 2019)
 
 ## Past Research Experience
 
- - Robust Mean - Conditional Value at Risk Portfolio Optimization at Cornell University
- - The New England Healthcare (NEH) Asset Allocation Research at Cornell University
+ - Robust Mean - Conditional Value at Risk Portfolio Optimization (ORIE 5370)
+ - The New England Healthcare (NEH) Assets Allocation Research (NBA 5420)
  - Advanced BBSR - American Option Pricing Research
 
 ## Skills
