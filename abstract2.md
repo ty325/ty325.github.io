@@ -2,6 +2,12 @@
 title: "Abstract"
 layout: page
 ---
+<html>
+  </head>
+  <body>
+    <img src="webpicture3.png" alt="An example image" width="500" height="300">
+  </body>
+</html>
 
 In order to improve the run-time efficiency and computational accuracy of the binomial method for
 pricing American options, we implement the Intelligent Lattice Search method by Qianru Shang and
