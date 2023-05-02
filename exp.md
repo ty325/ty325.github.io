@@ -12,8 +12,8 @@ layout: page
 ## Past Research Experience
 
  - Robust Mean - Conditional Value at Risk Portfolio Optimization (ORIE 5370) [[Abstract](abstract1.md)]
- - The New England Healthcare (NEH) Assets Allocation Research (NBA 5420) [[Abstract](abstract2.md)]
- - Advanced BBSR - American Option Pricing Research
+ - The New England Healthcare (NEH) Assets Allocation Research (NBA 5420) 
+ - Advanced BBSR - American Option Pricing Research [[Abstract](abstract2.md)]
 
 ## Skills
 
